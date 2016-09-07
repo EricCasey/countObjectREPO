@@ -29,8 +29,6 @@ function countLetters(string) {
     }
 
 
-
-
     console.log(countObject)
     return countObject;
 }
